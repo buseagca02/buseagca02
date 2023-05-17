@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **buseagca0201@gmail.com**
 
-- ⚡ **hello, I am Buse, I am a 1st year computer programming student. I am 20 years old and I live in Ataşehir, Istanbul. I like art, historical research, yoga and swimming. I am learning java, c#, visual code and kotlin as a program. I am actively using C#. Tel: 05054666714**
+- ⚡ **hello, I am Buse, I am a 2nd year computer programming student. I am 21 years old and I live in Ataşehir, Istanbul. I like art, historical research, yoga and swimming. I am learning java, c#, visual code and kotlin as a program. I am actively using C#. Tel: 05054666714**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
